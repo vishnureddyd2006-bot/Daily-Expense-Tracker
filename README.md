@@ -1,6 +1,5 @@
-# Daily-Expense-Tracker
-Daily Expense Tracker is a simple web-based application designed to help students track and manage their daily expenses efficiently. The application allows users to record expenses, categorize them, and view expense summaries, helping improve financial awareness and budgeting habits.
-Problem Statement
+Daily Expense Tracker is a simple web-based application that helps students record, track, and analyze their daily expenses. It encourages better money management by providing clear summaries and category-wise expense tracking.
+📝 Problem Statement
 Many students do not keep track of their daily expenses, which often leads to overspending and poor financial planning. There is a need for a simple and easy-to-use system that helps students manage their expenses efficiently.
 💡 Solution Overview
 This project provides a digital expense tracking system where users can:
